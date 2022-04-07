@@ -9,3 +9,4 @@ def bonjour():
 bonjour()
 
 print("babinks")
+print("si tu cries bang bang dans la conv de la classe jte donne 5€")
